@@ -27,8 +27,8 @@ share/python-wheels/
 MANIFEST
 myenv/
 /Final_model.h5
-MobileNetV2_model.h5
-MobileNetV2_model_improved.h5
+/MobileNetV2_model.h5
+/MobileNetV2_model_improved.h5
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
