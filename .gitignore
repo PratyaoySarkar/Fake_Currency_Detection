@@ -32,6 +32,7 @@ myenv/
 /VGG16_model_improved.h5
 /mobilenetv2_adam_history.pkl
 /vgg16_adam_history.pkl
+/ResearchPapers
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
